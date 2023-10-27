@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AliHemati
+- 👋 Hi, I’m Ali Hemati
 - 👀 Backend Developer
 
 
